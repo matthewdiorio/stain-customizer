@@ -1,5 +1,5 @@
-# stain-customizer
-The Stain Visualizer is a web application built with React, Three.js, Tailwind and Redux Toolkit that allows users to visualize stain textures on different wood types. With this tool, users can explore various stain options and preview how they would look on different wood species.
+# wood-customizer
+Wood Customizer is a web application built with React, Three.js, Tailwind and Redux Toolkit that allows users to visualize stain textures on different wood types. With this tool, users can explore various stain options and preview how they would look on different wood species.
 
 [View it live](https://aquamarine-marzipan-7f787d.netlify.app)
 
